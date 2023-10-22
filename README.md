@@ -5,8 +5,15 @@ It’s a mongoose model, REST controller and Express router code generator for E
 
 ## Installation
 ```bash
-$ npm install -g express-mongoose-generator
+$ cd express-mongoose-generator
+$ npm install -g
 ```
+
+## remove
+```bash
+$ npm r -g express-mongoose-generator
+```
+
 
 ## Usage
 ### Non-Interactive mode
